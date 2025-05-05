@@ -12,7 +12,7 @@ import sys
 
 
 def main():
-    API_KEY = "784458fcc8d8822097e9f56b9b36d7360eabca8f0535525e9f5a606c2a71ad56"
+    API_KEY = # OMMITTED FOR SECURITY
     url = "https://rest.coincap.io/v3/assets/bitcoin"
 
     try:
