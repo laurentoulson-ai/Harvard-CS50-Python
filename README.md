@@ -21,5 +21,3 @@ W6_File_I/O
 W7_Regular_Expressions
 
 W8_Object-Oriented_Programming
-
-W9_Et_Cetera
